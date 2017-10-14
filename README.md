@@ -1,5 +1,5 @@
 ---
-title:Hamming Code generator and single-error finding program
+Hamming Code generator and single-error finding program
 ---
 
 CURRENTLY WORKS ONLY FOR LINUX USERS (tested in ubuntu)
