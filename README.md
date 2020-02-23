@@ -2,10 +2,12 @@
 Hamming Code generator and single-error finding program
 ---
 
-CURRENTLY WORKS ONLY FOR LINUX USERS (tested in ubuntu)
-
-This is a program written in C. Just compile the file from terminal using "gcc
-hamming.c -o [name]" and then run it using "./[name]".
+Installation instructions:
+1. mkdir build
+2. cd build
+3. cmake ..
+4. make
+5. ./ham
 
 Features:
 1) Generate hamming code for a n bits (n <= 120) message. First, enter your message size in
