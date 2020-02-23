@@ -3,11 +3,11 @@ Hamming Code generator and single-error finding program
 ---
 
 Installation instructions:
-a) mkdir build
-b) cd build
-c) cmake ..
-d) make
-e) ./ham
+1. mkdir build
+2. cd build
+3. cmake ..
+4. make
+5. ./ham
 
 Features:
 1) Generate hamming code for a n bits (n <= 120) message. First, enter your message size in
